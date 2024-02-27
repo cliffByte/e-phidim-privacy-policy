@@ -1,7 +1,9 @@
 Privacy Policy for E Phidim
 Privacy Policy
 
-Last updated: February 15, 2024
+Last updated: February 27, 2024
+
+Company views protection of User(s) privacy as a very important principle. Company stores and processes User(s) information which defined under the Information Technology Act, 2000, if any, on computers, devices that may be protected by physical as well as reasonable technological security measures and procedures in accordance with Information Technology Act 2000 and Rules there under.
 
 This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.
 
