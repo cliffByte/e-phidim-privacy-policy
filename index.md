@@ -71,7 +71,8 @@ While using Our Application, in order to provide features of Our Application, We
     Information regarding your location
     Information from your Device's phone book (contacts list)
     Pictures and other information from your Device's camera and photo library
-    Geo location of device for uploading current incident with current location of your
+    Location of user device (precise location ).ACCESS_FINE_LOCATION is use to get precise location of user.
+    Location of device is use for uploading disaster with current location so that we can know user disaster occurred place and we can help user as soon as possible.
 
 We use this information to provide features of Our Service, to improve and customize Our Service. The information may be uploaded to the Company's servers and/or a Service Provider's server or it may be simply stored on Your device.
 
